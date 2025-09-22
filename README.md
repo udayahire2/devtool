@@ -16,4 +16,4 @@ A modern, animated landing page for a fictional "DEVTOOL" app, built with **Reac
 
 ### Installation
 1. Clone the repository:
-   **git clone https://github.com/your-username/devtool.git**
+   **git clone https://github.com/udayahire2/devtool.git**
